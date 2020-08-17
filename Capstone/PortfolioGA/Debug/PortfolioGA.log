@@ -1,0 +1,69 @@
+﻿  database.cpp
+  jsoncpp.cpp
+D:\Codes\Capstone\PortfolioGA\jsoncpp.cpp(270,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(454): message : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+  marketdata.cpp
+  Operator.cpp
+D:\Codes\Capstone\PortfolioGA\Operator.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Operator.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  Stock.cpp
+D:\Codes\Capstone\PortfolioGA\Stock.h(107,7): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(107,13): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(108,8): warning C4101: 'sql_select': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(164,31): warning C4244: 'return': conversion from 'double' to 'int64_t', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(459,21): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Stock.h(466,8): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(466,14): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(467,9): warning C4101: 'sql_select': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(169,6): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(169,12): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(230,20): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(423,20): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(461,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.cpp(485,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+D:\Codes\Capstone\PortfolioGA\Stock.h(107,7): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(107,13): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(108,8): warning C4101: 'sql_select': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(164,31): warning C4244: 'return': conversion from 'double' to 'int64_t', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(277,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Stock.h(459,21): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Stock.h(466,8): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(466,14): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Stock.h(467,9): warning C4101: 'sql_select': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Table.h(57,37): warning C4244: '=': conversion from 'Json::Value::Int64' to 'long', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Table.h(148,36): warning C4244: '=': conversion from 'Json::Value::Int64' to 'long', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Table.h(256,37): warning C4244: '=': conversion from 'Json::Value::Int64' to 'long', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Table.h(327,21): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Table.h(355,21): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Table.h(369,21): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\Table.h(607,34): warning C4244: 'argument': conversion from 'double' to 'sqlite3_int64', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Table.h(631,35): warning C4244: 'argument': conversion from 'double' to 'sqlite3_int64', possible loss of data
+D:\Codes\Capstone\PortfolioGA\Table.h(786,6): warning C4101: 'rows': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\Table.h(786,12): warning C4101: 'columns': unreferenced local variable
+D:\Codes\Capstone\PortfolioGA\GeneticAlgo.h(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\Codes\Capstone\PortfolioGA\GeneticAlgo.h(52,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Codes\Capstone\PortfolioGA\GeneticAlgo.h(67,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Codes\Capstone\PortfolioGA\gnuplot.h(13,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Codes\Capstone\PortfolioGA\Main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\Codes\Capstone\PortfolioGA\Main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\Codes\Capstone\PortfolioGA\Table.h(63): warning C4715: 'DownloadAndParse': not all control paths return a value
+D:\Codes\Capstone\PortfolioGA\Table.h(187): warning C4715: 'StockTable': not all control paths return a value
+D:\Codes\Capstone\PortfolioGA\Table.h(216): warning C4715: 'DownloadJson': not all control paths return a value
+D:\Codes\Capstone\PortfolioGA\Table.h(414): warning C4715: 'SP500Table': not all control paths return a value
+D:\Codes\Capstone\PortfolioGA\Table.h(466): warning C4715: 'ProcessFundamental': not all control paths return a value
+D:\Codes\Capstone\PortfolioGA\Table.h(855): warning C4715: 'TestFundamental': not all control paths return a value
+  PortfolioGA.vcxproj -> D:\Codes\Capstone\Debug\PortfolioGA.exe
